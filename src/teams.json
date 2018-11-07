@@ -4,6 +4,11 @@
     "nickName" : "Uprising",
     "division" : "Atlantic",
     "location" : "Boston, MA",
+    "record" : {
+      "wins" : 26,
+      "losses" : 14,
+      "ties" : 0
+    },
     "roster" : [
       {
         "name" : "Striker",
@@ -49,6 +54,11 @@
     "nickName" : "Mayhem",
     "division" : "Atlantic",
     "location" : "Florida",
+    "record" : {
+      "wins" : 7,
+      "losses" : 33,
+      "ties" : 0
+    },
     "roster" : [
       {
         "name" : "HaGoPeun",
@@ -82,6 +92,11 @@
     "nickName" : "Outlaws",
     "division" : "Atlantic",
     "location" : "Houston, TX",
+    "record" : {
+      "wins" : 22,
+      "losses" : 18,
+      "ties" : 0
+    },
     "roster" : [
       {
         "name" : "Muma",
@@ -131,6 +146,11 @@
     "nickName" : "Spitfire",
     "division" : "Atlantic",
     "location" : "London, UK",
+    "record" : {
+      "wins" : 24,
+      "losses" : 16,
+      "ties" : 0
+    },
     "roster" : [
       {
         "name" : "Gesture",
@@ -165,6 +185,11 @@
     "nickName" : "Excelsior",
     "division" : "Atlantic",
     "location" : "New York City, NY",
+    "record" : {
+      "wins" : 34,
+      "losses" : 6,
+      "ties" : 0
+    },
     "roster" : [
       {
         "name" : "Saebyeolbe",
@@ -206,6 +231,11 @@
     "nickName" : "Fusion",
     "division" : "Atlantic",
     "location" : "Philadelphia, PA",
+    "record" : {
+      "wins" : 24,
+      "losses" : 16,
+      "ties" : 0
+    },
     "roster" : [
       {
         "name" : "Boombox",
@@ -251,6 +281,11 @@
     "nickName" : "Fuel",
     "division" : "Pacific",
     "location" : "Dallas, TX",
+    "record" : {
+      "wins" : 12,
+      "losses" : 28,
+      "ties" : 0
+    },
     "roster" : [
       {
         "name" : "HarryHook",
@@ -292,6 +327,11 @@
     "nickName" : "Gladiators",
     "division" : "Pacific",
     "location" : "Los Angeles, CA",
+    "record" : {
+      "wins" : 25,
+      "losses" : 15,
+      "ties" : 0
+    },
     "roster" : [
       {
         "name" : "Surefour",
@@ -333,6 +373,11 @@
     "nickName" : "Valiant",
     "division" : "Pacific",
     "location" : "Los Angeles, CA",
+    "record" : {
+      "wins" : 27,
+      "losses" : 13,
+      "ties" : 0
+    },
     "roster" : [
       {
         "name" : "DuKi",
@@ -377,6 +422,11 @@
     "nickName" : "Shock",
     "division" : "Pacific",
     "location" : "San Francisco, CA",
+    "record" : {
+      "wins" : 17,
+      "losses" : 23,
+      "ties" : 0
+    },
     "roster" : [
       {
         "name" : "Smurf",
@@ -426,6 +476,11 @@
     "nickName" : "Dynasty",
     "division" : "Pacific",
     "location" : "Seoul, KR",
+    "record" : {
+      "wins" : 22,
+      "losses" : 18,
+      "ties" : 0
+    },
     "roster" : [
       {
         "name" : "ryujehong",
@@ -471,6 +526,11 @@
     "nickName" : "Dragons",
     "division" : "Pacific",
     "location" : "Shanghai, CN",
+    "record" : {
+      "wins" : 0,
+      "losses" : 40,
+      "ties" : 0
+    },
     "roster": [
       {
         "name" : "Geguri",

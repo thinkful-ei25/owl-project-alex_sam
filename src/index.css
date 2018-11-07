@@ -57,6 +57,17 @@ code {
   margin-right: auto;
 }
 
+.flip-teamcard-front > address {
+  position: relative;
+  top: -100px;
+}
+
+.flip-teamcard-front > span {
+  position: relative;
+  top: -250px;
+  font-size: 20px;
+}
+
 .flip-teamcard-inner {
   position: relative;
   width: 100%;
@@ -66,12 +77,11 @@ code {
   transform-style: preserve-3d;
 }
 
-/* Do an horizontal flip when you move the mouse over the flip box container */
+
 .flip-teamcard:hover .flip-teamcard-inner {
   transform: rotateY(180deg);
 }
 
-/* Position the front and back side */
 .flip-teamcard-front, .flip-teamcard-back {
   position: absolute;
   width: 100%;
@@ -84,7 +94,6 @@ code {
   color: black;
 }
 
-/* Style the back side */
 .flip-teamcard-back {
   background-color: dodgerblue;
   color: white;
