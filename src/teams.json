@@ -1,0 +1,87 @@
+[
+  {
+    "fullName" : "Boston Uprising",
+    "nickName" : "Uprising",
+    "division" : "Atlantic",
+    "location" : "Boston, MA",
+    "image" : "https://bnetcmsus-a.akamaihd.net/cms/page_media/W4FGQ24HKCB51513383982827.svg"
+  },
+  {
+    "fullName" : "Florida Mayhem",
+    "nickName" : "Mayhem",
+    "division" : "Atlantic",
+    "location" : "Florida",
+    "image" : "https://bnetcmsus-a.akamaihd.net/cms/template_resource/M1KNTZW8SGHZ1507822883041.svg"
+  },
+  {
+    "fullName" : "Houston Outlaws",
+    "nickName" : "Outlaws",
+    "division" : "Atlantic",
+    "location" : "Houston, TX",
+    "image" : "https://bnetcmsus-a.akamaihd.net/cms/page_media/UPM8U5QV3DDU1507858876250.svg"
+  },
+  {
+    "fullName" : "London Spitfire",
+    "nickName" : "Spitfire",
+    "division" : "Atlantic",
+    "location" : "London, UK",
+    "image" :  "https://bnetcmsus-a.akamaihd.net/cms/template_resource/HCS229B4DP021507822883016.svg"
+
+  },
+  {
+    "fullName" : "New York Excelsior",
+    "nickName" : "Excelsior",
+    "division" : "Atlantic",
+    "location" : "New York City, NY",
+    "image" : "https://bnetcmsus-a.akamaihd.net/cms/page_media/3PBR8VEYM8SH1517250447953.svg"
+  },
+  {
+    "fullName" : "Philadelphia Fusion",
+    "nickName" : "Fusion",
+    "division" : "Atlantic",
+    "location" : "Philadelphia, PA",
+    "image" : "https://bnetcmsus-a.akamaihd.net/cms/template_resource/LAKZ6R7QEG6S1507822883033.svg"
+  },
+  {
+    "fullName" : "Dallas Fuel",
+    "nickName" : "Fuel",
+    "division" : "Pacific",
+    "location" : "Dallas, TX",
+    "image" : "https://bnetcmsus-a.akamaihd.net/cms/template_resource/YX6JZ6FR89LU1507822882865.svg"
+  },
+  {
+    "fullName" : "Los Angeles Gladiators",
+    "nickName" : "Gladiators",
+    "division" : "Pacific",
+    "location" : "Los Angeles, CA",
+    "image" : "https://bnetcmsus-a.akamaihd.net/cms/template_resource/CHTRRZCBEYGN1507822882862.svg"
+  },
+  {
+    "fullName" : "Los Angeles Valiant",
+    "nickName" : "Valiant",
+    "division" : "Pacific",
+    "location" : "Los Angeles, CA",
+    "image" :   "https://bnetcmsus-a.akamaihd.net/cms/template_resource/L3U59GQVS1ZK1507822882879.svg"},
+  {
+    "fullName" : "San Francisco Shock",
+    "nickName" : "Shock",
+    "division" : "Pacific",
+    "location" : "San Francisco, CA",
+    "image" : "https://bnetcmsus-a.akamaihd.net/cms/template_resource/0SY7LHKHV86R1507822883113.svg"   
+  },
+  {
+    "fullName" : "Seoul Dynasty",
+    "nickName" : "Dynasty",
+    "division" : "Pacific",
+    "location" : "Seoul, KR",
+    "image" : "https://bnetcmsus-a.akamaihd.net/cms/page_media/E9MU0AK0JIXT1507858876249.svg"
+    },
+  {
+    "fullName" : "Shanghai Dragons",
+    "nickName" : "Dragons",
+    "division" : "Pacific",
+    "location" : "Shanghai, CN",
+    "image" : "https://bnetcmsus-a.akamaihd.net/cms/template_resource/ZIVUVIWXNIFL1507822883114.svg"
+  }
+
+]
