@@ -7,6 +7,7 @@ export default function Roster(props) {
       <p>{player.role}</p>
     </li>
   );
+  
   return(
     <ul>{roster}</ul>
   );
