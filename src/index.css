@@ -44,7 +44,7 @@ code {
   background-color: transparent;
   width: 200px;
   height: 300px;
-  border: 1px solid #f1f1f1;
+  border: 1px solid gray;
   perspective: 1000px; 
   text-align: center;
 }
@@ -55,6 +55,17 @@ code {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.flip-teamcard-front > address {
+  position: relative;
+  top: -100px;
+}
+
+.flip-teamcard-front > span {
+  position: relative;
+  top: -250px;
+  font-size: 20px;
 }
 
 .flip-teamcard-inner {
