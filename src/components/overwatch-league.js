@@ -21,7 +21,6 @@ export default class OverwatchLeague extends React.Component {
   }
 
   render(){
-    console.log(teams);
     let teamList;
     if(this.state.division){
       teamList = teams.filter(team=>team.division === this.state.division);

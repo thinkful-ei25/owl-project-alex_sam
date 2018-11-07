@@ -1,5 +1,7 @@
 import React from 'react';
 
+import Roster from './roster';
+
 export default function Teams(props){
   props.list.sort((a,b)=>(a.fullName>b.fullName) ? 1 : (a.fullName<b.fullName) ?-1:0);
   const teams = props.list.map((team, index) => 
@@ -13,7 +15,7 @@ export default function Teams(props){
         <div className='flip-teamcard-back'>
           <h1>Team Roster</h1>
           <div className="roster">
-            SAMPLE
+            <Roster list={team.roster}/>
           </div>
         </div>
       </div>

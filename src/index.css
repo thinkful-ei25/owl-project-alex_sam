@@ -66,15 +66,25 @@ code {
   transform-style: preserve-3d;
 }
 
-/* Do an horizontal flip when you move the mouse over the flip box container */
+
 .flip-teamcard:hover .flip-teamcard-inner {
   transform: rotateY(180deg);
 }
 
-/* Position the front and back side */
 .flip-teamcard-front, .flip-teamcard-back {
   position: absolute;
   width: 100%;
   height: 100%;
   backface-visibility: hidden;
+}
+
+.flip-teamcard-front {
+  background-color: #bbb;
+  color: black;
+}
+
+.flip-teamcard-back {
+  background-color: dodgerblue;
+  color: white;
+  transform: rotateY(180deg);
 }
