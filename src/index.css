@@ -103,6 +103,12 @@ code {
 .player {
   display: inline-block;
   width: 80px;
-  margin-left: auto;
-  margin-right: auto;
+  margin-top : 10px;
+  font-size: 13px;
+  position: relative;
+  left: -15px;
+}
+
+.player > span{
+  display: inline-block;
 }

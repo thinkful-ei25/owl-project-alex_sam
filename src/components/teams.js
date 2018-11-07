@@ -22,7 +22,7 @@ export default function Teams(props){
           <address className="location">{team.location}</address>
         </div>
         <div className='flip-teamcard-back'>
-          <h1>Team Roster</h1>
+          <strong>Team Roster</strong>
           <div className="roster">
             <Roster list={team.roster}/>
           </div>
