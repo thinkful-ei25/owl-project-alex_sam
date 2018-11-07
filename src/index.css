@@ -99,3 +99,10 @@ code {
   color: white;
   transform: rotateY(180deg);
 }
+
+.player {
+  display: inline-block;
+  width: 80px;
+  margin-left: auto;
+  margin-right: auto;
+}
