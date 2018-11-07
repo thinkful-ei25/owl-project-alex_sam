@@ -4,6 +4,44 @@
     "nickName" : "Uprising",
     "division" : "Atlantic",
     "location" : "Boston, MA",
+    "roster" : [
+      {
+        "name" : "Striker",
+        "role" : "DPS"
+      },
+      {
+        "name" : "Blase",
+        "role" : "DPS"
+      },
+      {
+        "name" : "Axxiom",
+        "role" : "Tank"
+      },
+      {
+        "name" : "AimGod",
+        "role" : "Healer"
+      },
+      {
+        "name" : "Kellex",
+        "role" : "Healer"
+      },
+      {
+        "name" : "Colourhex",
+        "role" : "DPS"
+      },
+      {
+        "name" : "Fusions",
+        "role" : "Tank"
+      },
+      {
+        "name" : "Gamsu",
+        "role" : "Tank"
+      },
+      {
+        "name" : "NotE",
+        "role" : "Tank"
+      }
+    ],
     "image" : "https://bnetcmsus-a.akamaihd.net/cms/page_media/W4FGQ24HKCB51513383982827.svg"
   },
   {
@@ -11,6 +49,32 @@
     "nickName" : "Mayhem",
     "division" : "Atlantic",
     "location" : "Florida",
+    "roster" : [
+      {
+        "name" : "HaGoPeun",
+        "role" : "Healer"
+      },
+      {
+        "name" : "Sayaplayer",
+        "role" : "DPS"
+      },
+      {
+        "name" : "TviQ",
+        "role" : "DPS"
+      },
+      {
+        "name" : "XepheR",
+        "role" : "Flex"
+      },
+      {
+        "name" : "Apply",
+        "role" : "DPS"
+      },
+      {
+        "name" : "aWesomeGuy",
+        "role" : "Tank"
+      }
+    ],
     "image" : "https://bnetcmsus-a.akamaihd.net/cms/template_resource/M1KNTZW8SGHZ1507822883041.svg"
   },
   {
@@ -18,6 +82,49 @@
     "nickName" : "Outlaws",
     "division" : "Atlantic",
     "location" : "Houston, TX",
+    "roster" : [
+      {
+        "name" : "Muma",
+        "role" : "Tank"
+      },
+      {
+        "name" : "Bani",
+        "role" : "Healer"
+      },
+      {
+        "name" : "Boink",
+        "role" : "Healer"
+      },
+      {
+        "name" : "LiNkzr",
+        "role" : "DPS"
+      },
+      {
+        "name" : "SPREE",
+        "role" : "Flex"
+      },
+      {
+        "name" : "Arhan",
+        "role" : "Flex"
+      },
+      {
+        "name" : "Rawkus",
+        "role" : "Healer"
+      },
+      ,
+      {
+        "name" : "Jake",
+        "role" : "DPS"
+      },
+      {
+        "name" : "Danteh",
+        "role" : "DPS"
+      },
+      {
+        "name" : "Coolmatt",
+        "role" : "Tank"
+      }
+    ],
     "image" : "https://bnetcmsus-a.akamaihd.net/cms/page_media/UPM8U5QV3DDU1507858876250.svg"
   },
   {
@@ -25,6 +132,32 @@
     "nickName" : "Spitfire",
     "division" : "Atlantic",
     "location" : "London, UK",
+    "roster" : [
+      {
+        "name" : "Gesture",
+        "role" : "Tank"
+      },
+      {
+        "name" : "birdring",
+        "role" : "DPS"
+      },
+      {
+        "name" : "Bdosin",
+        "role" : "Healer"
+      },
+      {
+        "name" : "NUS",
+        "role" : "Healer"
+      },
+      {
+        "name" : "Fury",
+        "role" : "Flex"
+      },
+      {
+        "name" : "Profit",
+        "role" : "DPS"
+      }
+    ],
     "image" :  "https://bnetcmsus-a.akamaihd.net/cms/template_resource/HCS229B4DP021507822883016.svg"
 
   },
@@ -33,6 +166,40 @@
     "nickName" : "Excelsior",
     "division" : "Atlantic",
     "location" : "New York City, NY",
+    "roster" : [
+      {
+        "name" : "Saebyeolbe",
+        "role" : "DPS"
+      },
+      {
+        "name" : "Meko",
+        "role" : "Tank"
+      },
+      {
+        "name" : "Anamo",
+        "role" : "Healer"
+      },
+      {
+        "name" : "Pine",
+        "role" : "Flex"
+      },
+      {
+        "name" : "Mano",
+        "role" : "Tank"
+      },
+      {
+        "name" : "Jjonak",
+        "role" : "Healer"
+      },
+      {
+        "name" : "Libero",
+        "role" : "DPS"
+      },
+      {
+        "name" : "Ark",
+        "role" : "Healer"
+      }
+    ],
     "image" : "https://bnetcmsus-a.akamaihd.net/cms/page_media/3PBR8VEYM8SH1517250447953.svg"
   },
   {
@@ -40,6 +207,44 @@
     "nickName" : "Fusion",
     "division" : "Atlantic",
     "location" : "Philadelphia, PA",
+    "roster" : [
+      {
+        "name" : "Boombox",
+        "role" : "Healer"
+      },
+      {
+        "name" : "Poko",
+        "role" : "Flex"
+      },
+      {
+        "name" : "Carpe",
+        "role" : "DPS"
+      },
+      {
+        "name" : "Snillo",
+        "role" : "DPS"
+      },
+      {
+        "name" : "SADD",
+        "role" : "Tank"
+      },
+      {
+        "name" : "fragi",
+        "role" : "Tank"
+      },
+      {
+        "name" : "Eqo",
+        "role" : "DPS"
+      },
+      {
+        "name" : "Elk",
+        "role" : "Healer"
+      },
+      {
+        "name" : "Neptuno",
+        "role" : "Healer"
+      }
+    ],
     "image" : "https://bnetcmsus-a.akamaihd.net/cms/template_resource/LAKZ6R7QEG6S1507822883033.svg"
   },
   {
@@ -47,6 +252,40 @@
     "nickName" : "Fuel",
     "division" : "Pacific",
     "location" : "Dallas, TX",
+    "roster" : [
+      {
+        "name" : "HarryHook",
+        "role" : "Healer"
+      },
+      {
+        "name" : "Mickie",
+        "role" : "Flex"
+      },
+      {
+        "name" : "aKm",
+        "role" : "DPS"
+      },
+      {
+        "name" : "Unkoe",
+        "role" : "Healer"
+      },
+      {
+        "name" : "OGE",
+        "role" : "Tank"
+      },
+      {
+        "name" : "Taimou",
+        "role" : "DPS"
+      },
+      {
+        "name" : "Closer",
+        "role" : "Healer"
+      },
+      {
+        "name" : "EFFECT",
+        "role" : "DPS"
+      }
+    ],
     "image" : "https://bnetcmsus-a.akamaihd.net/cms/template_resource/YX6JZ6FR89LU1507822882865.svg"
   },
   {
@@ -54,6 +293,40 @@
     "nickName" : "Gladiators",
     "division" : "Pacific",
     "location" : "Los Angeles, CA",
+    "roster" : [
+      {
+        "name" : "Surefour",
+        "role" : "DPS"
+      },
+      {
+        "name" : "Void",
+        "role" : "Flex"
+      },
+      {
+        "name" : "rOar",
+        "role" : "Tank"
+      },
+      {
+        "name" : "Bischu",
+        "role" : "Flex"
+      },
+      {
+        "name" : "Shaz",
+        "role" : "Healer"
+      },
+      {
+        "name" : "Decay",
+        "role" : "DPS"
+      },
+      {
+        "name" : "Hydration",
+        "role" : "DPS"
+      },
+      {
+        "name" : "BigGoose",
+        "role" : "Healer"
+      }
+    ],
     "image" : "https://bnetcmsus-a.akamaihd.net/cms/template_resource/CHTRRZCBEYGN1507822882862.svg"
   },
   {
@@ -61,12 +334,92 @@
     "nickName" : "Valiant",
     "division" : "Pacific",
     "location" : "Los Angeles, CA",
+    "roster" : [
+      {
+        "name" : "DuKi",
+        "role" : "Tank"
+      },
+      {
+        "name" : "Kariv",
+        "role" : "Flex"
+      },
+      {
+        "name" : "Bunny",
+        "role" : "DPS"
+      },
+      {
+        "name" : "Fate",
+        "role" : "Tank"
+      },
+      {
+        "name" : "Custa",
+        "role" : "Healer"
+      },
+      {
+        "name" : "KSF",
+        "role" : "DPS"
+      },
+      {
+        "name" : "Izayaki",
+        "role" : "Flex"
+      },
+      {
+        "name" : "Space",
+        "role" : "Flex"
+      },
+      {
+        "name" : "Agilities",
+        "role" : "DPS"
+      }
+    ],
     "image" :   "https://bnetcmsus-a.akamaihd.net/cms/template_resource/L3U59GQVS1ZK1507822882879.svg"},
   {
     "fullName" : "San Francisco Shock",
     "nickName" : "Shock",
     "division" : "Pacific",
     "location" : "San Francisco, CA",
+    "roster" : [
+      {
+        "name" : "Smurf",
+        "role" : "Tank"
+      },
+      {
+        "name" : "Moth",
+        "role" : "Healer"
+      },
+      {
+        "name" : "Choihyobin",
+        "role" : "Tank"
+      },
+      {
+        "name" : "super",
+        "role" : "Flex"
+      },
+      {
+        "name" : "BABYBAY",
+        "role" : "DPS"
+      },
+      {
+        "name" : "sinatraa",
+        "role" : "DPS"
+      },
+      {
+        "name" : "sleepy",
+        "role" : "Healer"
+      },
+      {
+        "name" : "Rascal",
+        "role" : "DPS"
+      },
+      {
+        "name" : "Nevix",
+        "role" : "Flex"
+      },
+      {
+        "name" : "Architect",
+        "role" : "DPS"
+      }
+    ],
     "image" : "https://bnetcmsus-a.akamaihd.net/cms/template_resource/0SY7LHKHV86R1507822883113.svg"   
   },
   {
@@ -74,6 +427,44 @@
     "nickName" : "Dynasty",
     "division" : "Pacific",
     "location" : "Seoul, KR",
+    "roster" : [
+      {
+        "name" : "ryujehong",
+        "role" : "Flex"
+      },
+      {
+        "name" : "Marve1",
+        "role" : "Tank"
+      },
+      {
+        "name" : "Jecse",
+        "role" : "Healer"
+      },
+      {
+        "name" : "Fissure",
+        "role" : "Tank"
+      },
+      {
+        "name" : "ZUNBA",
+        "role" : "Flex"
+      },
+      {
+        "name" : "Munchkin",
+        "role" : "DPS"
+      },
+      {
+        "name" : "Michelle",
+        "role" : "Flex"
+      },
+      {
+        "name" : "FLETA",
+        "role" : "DPS"
+      },
+      {
+        "name" : "tobi",
+        "role" : "Healer"
+      }
+    ],
     "image" : "https://bnetcmsus-a.akamaihd.net/cms/page_media/E9MU0AK0JIXT1507858876249.svg"
     },
   {
@@ -81,6 +472,20 @@
     "nickName" : "Dragons",
     "division" : "Pacific",
     "location" : "Shanghai, CN",
+    "roster": [
+      {
+        "name" : "Geguri",
+        "role" : "Tank"
+      },
+      {
+        "name" : "Diya",
+        "role" : "DPS"
+      },
+      {
+        "name" : "Fearless",
+        "role" : "Tank"
+      }
+    ],
     "image" : "https://bnetcmsus-a.akamaihd.net/cms/template_resource/ZIVUVIWXNIFL1507822883114.svg"
   }
 
