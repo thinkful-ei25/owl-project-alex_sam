@@ -4,7 +4,7 @@ import Teams from './teams';
 import teams from '../teams.json';
 
 import DivisionDropdown from './division-dropdown';
-import PlayerSearch from './player-search';
+import TeamSearch from './player-search';
 import SortBy from './sort-by';
 
 export default class OverwatchLeague extends React.Component {
@@ -18,7 +18,7 @@ export default class OverwatchLeague extends React.Component {
     }
   }
 
-  setPlayerSearch(search){
+  setTeamSearch(search){
     this.setState({
       search
     })
@@ -49,9 +49,8 @@ export default class OverwatchLeague extends React.Component {
     return (
       <div className="main-page">
         <DivisionDropdown changedDivision={(div)=>(this.setDivision(div))}/>
-        <PlayerSearch playerSearch={(search)=>(this.setPlayerSearch(search))} />
-        <Teams list={teamList}/>
         <SortBy changeSort={(sort)=>(this.setSort(sort))}/>
+        <TeamSearch teamSearch={(search)=>(this.setTeamSearch(search))} />
         <Teams list={teamList} sort={this.state.sortBy}/>
       </div>
     );
