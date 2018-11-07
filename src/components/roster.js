@@ -8,7 +8,6 @@ export default function Roster(props) {
     </li>
   );
 
-  console.log(roster);
   return(
     <ul>{roster}</ul>
   );
