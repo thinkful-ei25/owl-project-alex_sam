@@ -30,7 +30,7 @@ export default class OverwatchLeague extends React.Component {
     }
     
     return (
-      <div>
+      <div className="main-page">
         <DivisionDropdown changedDivision={(div)=>(this.setDivision(div))}/>
         <Teams list={teamList}/>
       </div>
